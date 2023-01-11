@@ -8,6 +8,9 @@
 
 <b>La actualizacion BETA de cc-genpro1.2. Generador de tarjetas de credito usando el algoritmo de Luhn. Nueva interfaz y pagina web.</b>
 
+***
+DEMO WEB - [Open Here](https://cc-genpro.com)
+
 <h2>NECESARIO PKG</h2>
 <li>apt update && apt upgrade -y </lo>
 <li>pkg install git -y </lo>
@@ -31,7 +34,6 @@
 
 ***
 
-DEMO WEB - [Open Here](https://cc-genpro.com)
 ![alt text](https://raw.githubusercontent.com/RealStrategy/realstrategy.github.io/main/CC-GENPROV1/ccgenpro.png)
 ---
 

@@ -10,7 +10,7 @@
 
 ***
 DEMO WEB - [Open Here](https://cc-genpro.com)
-
+![alt text](https://raw.githubusercontent.com/RealStrategy/realstrategy.github.io/main/CC-GENPROV1/ccgenpro.png)
 <h2>NECESARIO PKG</h2>
 <li>apt update && apt upgrade -y </lo>
 <li>pkg install git -y </lo>
@@ -32,9 +32,6 @@ DEMO WEB - [Open Here](https://cc-genpro.com)
 <h2>TUTORIAL DETALLADO</h2>
 <li>Tutorial: https://todoreal.com/como-instalar-el-generador-cc-genpro2-0-en-termux/ </lo>
 
-***
-
-![alt text](https://raw.githubusercontent.com/RealStrategy/realstrategy.github.io/main/CC-GENPROV1/ccgenpro.png)
 ---
 
 <h4 align='center'> © 2023 @RealStrategy <h4>
